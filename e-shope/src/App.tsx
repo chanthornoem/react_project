@@ -1,9 +1,13 @@
-
+import Greeting from "./components/Greeting";
 function App() {
   
   return (
     <div>
-      <h1>Hello react</h1>
+      <Greeting/>
+      <Greeting/>
+      <Greeting/>
+      <Greeting/>
+      <Greeting/>
     </div>
   )
 }
